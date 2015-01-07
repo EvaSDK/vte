@@ -173,3 +173,4 @@ struct vteseq_n_struct {
 "urxvt-777", VTE_SEQUENCE_HANDLER(vte_sequence_handler_urxvt_777)
 "iterm2-133", VTE_SEQUENCE_HANDLER(vte_sequence_handler_iterm2_133)
 "iterm2-1337", VTE_SEQUENCE_HANDLER(vte_sequence_handler_iterm2_1337)
+"send-notification", VTE_SEQUENCE_HANDLER(vte_sequence_handler_send_notification)
